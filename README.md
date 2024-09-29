@@ -1,15 +1,7 @@
-# Startpagina
+# Algemene Plaatselijke Verordening
+
+Hier vind je de APV met alle server regels die worden gehanteerd in Rotterdam. We vragen je deze te lezen om een eerlijke en betere ervaring te krijgen in onze server.
 
 {% hint style="info" %}
-Welkom op onze website gewijd aan aan de Algemene Plaatselijke Verordening en het Wetboek. Hier kan je alle informatie vinden die je nodig hebt over de regelgeving.\
-\
-APV:
-
-[algemene-plaatselijke-verordening](regelgeving/algemene-plaatselijke-verordening/ "mention")\
-\
-Wetboek:&#x20;
-
-[wetboek](regelgeving/wetboek/ "mention")\
-\
-Bij vragen of opmerkingen, kun je contact opnemen via de support discord.
+&#x20;De Algemene Plaatselijke Verordening kan ten alle tijden aangepast worden door het Staff Team.
 {% endhint %}
